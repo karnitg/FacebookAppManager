@@ -1,0 +1,4 @@
+c:\users\karnitg\documents\visual studio 2010\Projects\FacebookAppManager\FacebookAppManager\bin\FacebookAppManager.dll
+c:\users\karnitg\documents\visual studio 2010\Projects\FacebookAppManager\FacebookAppManager\bin\FacebookAppManager.pdb
+c:\users\karnitg\documents\visual studio 2010\Projects\FacebookAppManager\FacebookAppManager\obj\Debug\FacebookAppManager.dll
+c:\users\karnitg\documents\visual studio 2010\Projects\FacebookAppManager\FacebookAppManager\obj\Debug\FacebookAppManager.pdb
